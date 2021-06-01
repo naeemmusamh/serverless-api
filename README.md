@@ -13,7 +13,7 @@ dynamoose helps you accelerate your DynamoDB workflow with code generation, fast
 
 [GitHub](https://github.com/naeemmusamh/serverless-api)
 
-[Pull Request]()
+[Pull Request](https://github.com/naeemmusamh/serverless-api/pull/1)
 
 [AWS URL](https://ejshne37yg.execute-api.us-east-1.amazonaws.com/people)
 
